@@ -1,0 +1,26 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:AndroidApp.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AndroidApp.Views.MainView"
+             x:DataType="vm:MainViewModel">
+
+	<Design.DataContext>
+		<vm:MainViewModel />
+	</Design.DataContext>
+
+	<Grid Margin="30">
+		<StackPanel VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <Label x:Name="Status"/>
+            <Button x:Name="ledopen"
+                    Click="Ledopen_OnClick" 
+                    Content="Led Aç"/>
+            <Button x:Name="ledclose" Click="Ledclose_OnClick">Led Kapa</Button>
+		</StackPanel>
+	</Grid>
+
+
+</UserControl>

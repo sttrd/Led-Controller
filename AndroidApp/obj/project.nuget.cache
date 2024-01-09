@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4JKlYO7nHkhf0RVulv87gqMO4h13bqLo9CZSJung+I+qG0rt6oQPaC1xiX2gyBaK20JGA0u6lY0H9ildCsXBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\AndroidApp\\AndroidApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anana\\.nuget\\packages\\avalonia\\11.0.2\\avalonia.11.0.2.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\avalonia.buildservices\\0.0.28\\avalonia.buildservices.0.0.28.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\avalonia.fonts.inter\\11.0.2\\avalonia.fonts.inter.11.0.2.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\avalonia.reactiveui\\11.0.2\\avalonia.reactiveui.11.0.2.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\avalonia.remote.protocol\\11.0.2\\avalonia.remote.protocol.11.0.2.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\avalonia.themes.fluent\\11.0.2\\avalonia.themes.fluent.11.0.2.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\dynamicdata\\7.9.5\\dynamicdata.7.9.5.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\reactiveui\\18.3.1\\reactiveui.18.3.1.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\splat\\14.4.1\\splat.14.4.1.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\anana\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
