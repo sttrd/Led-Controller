@@ -14,10 +14,6 @@ namespace AndroidApp.Views;
 
 public partial class MainView : UserControl
 {
-    private int counter;
-
-    private DispatcherTimer dt;
-    public MainViewModel MainViewModel1 { get; set; } = new MainViewModel();
     public MainView()
     {
         InitializeComponent();

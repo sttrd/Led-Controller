@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w1FIRXlavS0hykubMx4wg24G/EXNTYmZ2Q3obC5wEtqe6rSjrI7GqEWzLFjZOzmfIzhivhCW7X8wJwTA3BtFXQ==",
+  "dgSpecHash": "+2bUaQuzKRWZq9DpMZj2pqN5jdbn9VrUx2CazC5P9gB2oVR+MnSFUNbWwCNPNgmcY+JWgXLY0NXlWfdoDllxnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\NativeAotApi\\NativeAotApi.csproj",
+  "projectFilePath": "C:\\Users\\anana\\Desktop\\LedYakAc\\NativeAotApi\\NativeAotApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anana\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
     "C:\\Users\\anana\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\AndroidApp\\AndroidApp.csproj": {}
+    "C:\\Users\\anana\\Desktop\\LedYakAc\\AndroidApp\\AndroidApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\AndroidApp\\AndroidApp.csproj": {
+    "C:\\Users\\anana\\Desktop\\LedYakAc\\AndroidApp\\AndroidApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\AndroidApp\\AndroidApp.csproj",
+        "projectUniqueName": "C:\\Users\\anana\\Desktop\\LedYakAc\\AndroidApp\\AndroidApp.csproj",
         "projectName": "AndroidApp",
-        "projectPath": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\AndroidApp\\AndroidApp.csproj",
+        "projectPath": "C:\\Users\\anana\\Desktop\\LedYakAc\\AndroidApp\\AndroidApp.csproj",
         "packagesPath": "C:\\Users\\anana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\AndroidApp\\obj\\",
+        "outputPath": "C:\\Users\\anana\\Desktop\\LedYakAc\\AndroidApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,19 +52,23 @@
           "dependencies": {
             "Avalonia": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "(, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "(, )"
             },
             "Avalonia.Fonts.Inter": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "(, )"
             },
             "Avalonia.ReactiveUI": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "(, )"
             },
             "Avalonia.Themes.Fluent": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "(, )"
             }
           },
           "imports": [

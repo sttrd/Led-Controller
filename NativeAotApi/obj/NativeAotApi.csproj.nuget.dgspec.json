@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\NativeAotApi\\NativeAotApi.csproj": {}
+    "C:\\Users\\anana\\Desktop\\LedYakAc\\NativeAotApi\\NativeAotApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\NativeAotApi\\NativeAotApi.csproj": {
+    "C:\\Users\\anana\\Desktop\\LedYakAc\\NativeAotApi\\NativeAotApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\NativeAotApi\\NativeAotApi.csproj",
+        "projectUniqueName": "C:\\Users\\anana\\Desktop\\LedYakAc\\NativeAotApi\\NativeAotApi.csproj",
         "projectName": "NativeAotApi",
-        "projectPath": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\NativeAotApi\\NativeAotApi.csproj",
+        "projectPath": "C:\\Users\\anana\\Desktop\\LedYakAc\\NativeAotApi\\NativeAotApi.csproj",
         "packagesPath": "C:\\Users\\anana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anana\\Desktop\\C#\\IOTApp\\NativeAotApi\\obj\\",
+        "outputPath": "C:\\Users\\anana\\Desktop\\LedYakAc\\NativeAotApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
